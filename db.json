@@ -1,0 +1,517 @@
+
+[
+    {
+      "name": "Asus B450M",
+      "status": "in-stock",
+      "price": "1900",
+      "rating": "4.2",
+      "category": "motherboard",
+      "description": "Some description here",
+      "keyFeature": [
+        {
+          "brand": "Asus",
+          "model": "B450M 2022",
+          "specification": "Some specification here"
+        }
+      ],
+      "image": ["http://example.com", "http://example.com"],
+      "individualRating": "3.4",
+      "avgRating": "3.2",
+      "review": "19"
+    },
+    {
+      "name": "Intel Core i7-11700K",
+      "status": "in-stock",
+      "price": "3299",
+      "rating": "4.5",
+      "category": "cpu",
+      "description": "High-performance CPU for gaming and productivity",
+      "keyFeature": [
+        {
+          "brand": "Intel",
+          "model": "i7-11700K",
+          "specification": "8 cores, 16 threads, 3.6GHz base clock"
+        }
+      ],
+      "image": ["http://example.com/cpu1", "http://example.com/cpu2"],
+      "individualRating": "4.7",
+      "avgRating": "4.3",
+      "review": "25"
+    },
+    {
+      "name": "Corsair Vengeance LPX 16GB DDR4 RAM",
+      "status": "in-stock",
+      "price": "189",
+      "rating": "4.7",
+      "category": "ram",
+      "description": "High-speed DDR4 RAM for gaming and multitasking",
+      "keyFeature": [
+        {
+          "brand": "Corsair",
+          "model": "Vengeance LPX",
+          "specification": "16GB, 3000MHz"
+        }
+      ],
+      "image": ["http://example.com/ram1", "http://example.com/ram2"],
+      "individualRating": "4.5",
+      "avgRating": "4.4",
+      "review": "30"
+    },
+    {
+      "name": "EVGA 750W 80+ Gold Power Supply",
+      "status": "in-stock",
+      "price": "149",
+      "rating": "4.3",
+      "category": "power supply",
+      "description": "High-efficiency power supply for gaming rigs",
+      "keyFeature": [
+        {
+          "brand": "EVGA",
+          "model": "750W 80+ Gold",
+          "specification": "750W, 80+ Gold certified"
+        }
+      ],
+      "image": ["http://example.com/psu1", "http://example.com/psu2"],
+      "individualRating": "4.2",
+      "avgRating": "4.0",
+      "review": "22"
+    },
+    {
+      "name": "Dell 27-inch 4K Monitor",
+      "status": "in-stock",
+      "price": "499",
+      "rating": "4.6",
+      "category": "monitor",
+      "description": "High-resolution monitor for stunning visuals",
+      "keyFeature": [
+        {
+          "brand": "Dell",
+          "model": "27-inch 4K Monitor",
+          "specification": "27-inch, 4K UHD"
+        }
+      ],
+      "image": ["http://example.com/monitor1", "http://example.com/monitor2"],
+      "individualRating": "4.8",
+      "avgRating": "4.5",
+      "review": "28"
+    },
+    {
+      "name": "Samsung 1TB NVMe SSD",
+      "status": "in-stock",
+      "price": "199",
+      "rating": "4.4",
+      "category": "ssd",
+      "description": "Fast and reliable NVMe SSD for storage",
+      "keyFeature": [
+        {
+          "brand": "Samsung",
+          "model": "1TB NVMe SSD",
+          "specification": "1TB, NVMe interface"
+        }
+      ],
+      "image": ["http://example.com/ssd1", "http://example.com/ssd2"],
+      "individualRating": "4.6",
+      "avgRating": "4.3",
+      "review": "24"
+    },
+    {
+      "name": "Logitech G Pro Mechanical Keyboard",
+      "status": "in-stock",
+      "price": "129",
+      "rating": "4.8",
+      "category": "keyboard",
+      "description": "High-performance mechanical keyboard for gamers",
+      "keyFeature": [
+        {
+          "brand": "Logitech",
+          "model": "G Pro",
+          "specification": "Mechanical switches, customizable RGB lighting"
+        }
+      ],
+      "image": ["http://example.com/keyboard1", "http://example.com/keyboard2"],
+      "individualRating": "4.9",
+      "avgRating": "4.7",
+      "review": "32"
+    },
+    {
+      "name": "Logitech G Pro Wireless Mouse",
+      "status": "in-stock",
+      "price": "99",
+      "rating": "4.7",
+      "category": "mouse",
+      "description": "High-precision wireless gaming mouse",
+      "keyFeature": [
+        {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "specification": "Wireless, 16000 DPI sensor"
+        }
+      ],
+      "image": ["http://example.com/mouse1", "http://example.com/mouse2"],
+      "individualRating": "4.6",
+      "avgRating": "4.4",
+      "review": "27"
+    },
+    {
+      "name": "SanDisk 64GB USB 3.0 Pendrive",
+      "status": "in-stock",
+      "price": "19",
+      "rating": "4.1",
+      "category": "pendrive",
+      "description": "Compact USB drive for data storage",
+      "keyFeature": [
+        {
+          "brand": "SanDisk",
+          "model": "64GB USB 3.0",
+          "specification": "64GB, USB 3.0"
+        }
+      ],
+      "image": ["http://example.com/pendrive1", "http://example.com/pendrive2"],
+      "individualRating": "4.2",
+      "avgRating": "4.0",
+      "review": "20"
+    },
+    {
+      "name": "AMD Ryzen 5 5600X",
+      "status": "in-stock",
+      "price": "279",
+      "rating": "4.4",
+      "category": "cpu",
+      "description": "Powerful CPU for gaming and multitasking",
+      "keyFeature": [
+        {
+          "brand": "AMD",
+          "model": "Ryzen 5 5600X",
+          "specification": "6 cores, 12 threads, 3.7GHz base clock"
+        }
+      ],
+      "image": ["http://example.com/cpu3", "http://example.com/cpu4"],
+      "individualRating": "4.5",
+      "avgRating": "4.2",
+      "review": "26"
+    },
+    {
+      "name": "Gigabyte B550 AORUS Pro",
+      "status": "in-stock",
+      "price": "199",
+      "rating": "4.3",
+      "category": "motherboard",
+      "description": "Feature-rich motherboard for gamers and content creators",
+      "keyFeature": [
+        {
+          "brand": "Gigabyte",
+          "model": "B550 AORUS Pro",
+          "specification": "ATX form factor, PCIe 4.0 support"
+        }
+      ],
+      "image": ["http://example.com/motherboard1", "http://example.com/motherboard2"],
+      "individualRating": "4.2",
+      "avgRating": "4.0",
+      "review": "23"
+    },
+    {
+      "name": "Crucial Ballistix 32GB DDR4 RAM",
+      "status": "in-stock",
+      "price": "249",
+      "rating": "4.6",
+      "category": "ram",
+      "description": "High-performance DDR4 RAM for enthusiasts",
+      "keyFeature": [
+        {
+          "brand": "Crucial",
+          "model": "Ballistix",
+          "specification": "32GB, 3200MHz"
+        }
+      ],
+      "image": ["http://example.com/ram3", "http://example.com/ram4"],
+      "individualRating": "4.7",
+      "avgRating": "4.5",
+      "review": "29"
+    },
+    {
+      "name": "Seasonic Focus GX-650 80+ Gold Power Supply",
+      "status": "in-stock",
+      "price": "159",
+      "rating": "4.5",
+      "category": "power supply",
+      "description": "Reliable power supply with 80+ Gold efficiency",
+      "keyFeature": [
+        {
+          "brand": "Seasonic",
+          "model": "Focus GX-650",
+          "specification": "650W, 80+ Gold certified"
+        }
+      ],
+      "image": ["http://example.com/psu3", "http://example.com/psu4"],
+      "individualRating": "4.4",
+      "avgRating": "4.2",
+      "review": "25"
+    },
+    {
+      "name": "LG 32-inch QHD Monitor",
+      "status": "in-stock",
+      "price": "449",
+      "rating": "4.7",
+      "category": "monitor",
+      "description": "Large QHD monitor for work and entertainment",
+      "keyFeature": [
+        {
+          "brand": "LG",
+          "model": "32-inch QHD Monitor",
+          "specification": "32-inch, QHD (2560x1440)"
+        }
+      ],
+      "image": ["http://example.com/monitor3", "http://example.com/monitor4"],
+      "individualRating": "4.8",
+      "avgRating": "4.6",
+      "review": "31"
+    },
+    {
+      "name": "Western Digital 1TB SATA SSD",
+      "status": "in-stock",
+      "price": "139",
+      "rating": "4.4",
+      "category": "ssd",
+      "description": "Fast and reliable SATA SSD for storage",
+      "keyFeature": [
+        {
+          "brand": "Western Digital",
+          "model": "1TB SATA SSD",
+          "specification": "1TB, SATA III interface"
+        }
+      ],
+      "image": ["http://example.com/ssd3", "http://example.com/ssd4"],
+      "individualRating": "4.5",
+      "avgRating": "4.3",
+      "review": "27"
+    },
+    {
+      "name": "Razer BlackWidow Elite Mechanical Keyboard",
+      "status": "in-stock",
+      "price": "169",
+      "rating": "4.8",
+      "category": "keyboard",
+      "description": "Premium mechanical gaming keyboard with RGB lighting",
+      "keyFeature": [
+        {
+          "brand": "Razer",
+          "model": "BlackWidow Elite",
+          "specification": "Mechanical switches, customizable RGB lighting"
+        }
+      ],
+      "image": ["http://example.com/keyboard3", "http://example.com/keyboard4"],
+      "individualRating": "4.9",
+      "avgRating": "4.7",
+      "review": "32"
+    },
+    {
+      "name": "Logitech MX Master 3 Wireless Mouse",
+      "status": "in-stock",
+      "price": "99",
+      "rating": "4.7",
+      "category": "mouse",
+      "description": "High-precision wireless mouse for productivity",
+      "keyFeature": [
+        {
+          "brand": "Logitech",
+          "model": "MX Master 3",
+          "specification": "Wireless, ergonomic design"
+        }
+      ],
+      "image": ["http://example.com/mouse3", "http://example.com/mouse4"],
+      "individualRating": "4.6",
+      "avgRating": "4.4",
+      "review": "28"
+    },
+    {
+      "name": "SanDisk 128GB USB 3.0 Pendrive",
+      "status": "in-stock",
+      "price": "29",
+      "rating": "4.1",
+      "category": "pendrive",
+      "description": "Compact USB drive with ample storage capacity",
+      "keyFeature": [
+        {
+          "brand": "SanDisk",
+          "model": "128GB USB 3.0",
+          "specification": "128GB, USB 3.0"
+        }
+      ],
+      "image": ["http://example.com/pendrive3", "http://example.com/pendrive4"],
+      "individualRating": "4.2",
+      "avgRating": "4.0",
+      "review": "20"
+    },
+    {
+      "name": "AMD Ryzen 9 5900X",
+      "status": "in-stock",
+      "price": "499",
+      "rating": "4.8",
+      "category": "cpu",
+      "description": "High-end CPU for gaming and content creation",
+      "keyFeature": [
+        {
+          "brand": "AMD",
+          "model": "Ryzen 9 5900X",
+          "specification": "12 cores, 24 threads, 3.7GHz base clock"
+        }
+      ],
+      "image": ["http://example.com/cpu5", "http://example.com/cpu6"],
+      "individualRating": "4.9",
+      "avgRating": "4.7",
+      "review": "33"
+    },
+    {
+      "name": "MSI MPG B550 GAMING PLUS",
+      "status": "in-stock",
+      "price": "169",
+      "rating": "4.5",
+      "category": "motherboard",
+      "description": "Gaming-oriented motherboard with RGB lighting",
+      "keyFeature": [
+        {
+          "brand": "MSI",
+          "model": "MPG B550 GAMING PLUS",
+          "specification": "ATX form factor, RGB lighting support"
+        }
+      ],
+      "image": ["http://example.com/motherboard3", "http://example.com/motherboard4"],
+      "individualRating": "4.4",
+      "avgRating": "4.2",
+      "review": "26"
+    },
+    {
+      "name": "Corsair Vengeance RGB Pro 32GB DDR4 RAM",
+      "status": "in-stock",
+      "price": "269",
+      "rating": "4.7",
+      "category": "ram",
+      "description": "High-performance RGB DDR4 RAM for enthusiasts",
+      "keyFeature": [
+        {
+          "brand": "Corsair",
+          "model": "Vengeance RGB Pro",
+          "specification": "32GB, 3600MHz, RGB lighting"
+        }
+      ],
+      "image": ["http://example.com/ram5", "http://example.com/ram6"],
+      "individualRating": "4.8",
+      "avgRating": "4.6",
+      "review": "30"
+    },
+    {
+      "name": "Corsair RM850x 80+ Gold Power Supply",
+      "status": "in-stock",
+      "price": "179",
+      "rating": "4.4",
+      "category": "power supply",
+      "description": "High-efficiency modular power supply",
+      "keyFeature": [
+        {
+          "brand": "Corsair",
+          "model": "RM850x",
+          "specification": "850W, 80+ Gold certified, modular"
+        }
+      ],
+      "image": ["http://example.com/psu5", "http://example.com/psu6"],
+      "individualRating": "4.3",
+      "avgRating": "4.1",
+      "review": "24"
+    },
+    {
+      "name": "Dell 34-inch Ultrawide Monitor",
+      "status": "in-stock",
+      "price": "799",
+      "rating": "4.8",
+      "category": "monitor",
+      "description": "Immersive ultrawide monitor for productivity and gaming",
+      "keyFeature": [
+        {
+          "brand": "Dell",
+          "model": "34-inch Ultrawide Monitor",
+          "specification": "34-inch, Ultrawide QHD (3440x1440)"
+        }
+      ],
+      "image": ["http://example.com/monitor5", "http://example.com/monitor6"],
+      "individualRating": "4.9",
+      "avgRating": "4.7",
+      "review": "34"
+    },
+    {
+      "name": "Samsung 2TB NVMe SSD",
+      "status": "in-stock",
+      "price": "369",
+      "rating": "4.5",
+      "category": "ssd",
+      "description": "High-capacity NVMe SSD for blazing-fast storage",
+      "keyFeature": [
+        {
+          "brand": "Samsung",
+          "model": "2TB NVMe SSD",
+          "specification": "2TB, NVMe interface"
+        }
+      ],
+      "image": ["http://example.com/ssd5", "http://example.com/ssd6"],
+      "individualRating": "4.6",
+      "avgRating": "4.4",
+      "review": "28"
+    },
+    {
+      "name": "SteelSeries Apex Pro Mechanical Keyboard",
+      "status": "in-stock",
+      "price": "199",
+      "rating": "4.8",
+      "category": "keyboard",
+      "description": "Adjustable mechanical keyboard with customizable switches",
+      "keyFeature": [
+        {
+          "brand": "SteelSeries",
+          "model": "Apex Pro",
+          "specification": "Mechanical switches, customizable actuation"
+        }
+      ],
+      "image": ["http://example.com/keyboard5", "http://example.com/keyboard6"],
+      "individualRating": "4.9",
+      "avgRating": "4.7",
+      "review": "32"
+    },
+    {
+      "name": "Logitech G502 Hero Gaming Mouse",
+      "status": "in-stock",
+      "price": "69",
+      "rating": "4.6",
+      "category": "mouse",
+      "description": "High-precision gaming mouse with customizable weights",
+      "keyFeature": [
+        {
+          "brand": "Logitech",
+          "model": "G502 Hero",
+          "specification": "Wired, adjustable weight system"
+        }
+      ],
+      "image": ["http://example.com/mouse5", "http://example.com/mouse6"],
+      "individualRating": "4.5",
+      "avgRating": "4.3",
+      "review": "27"
+    },
+    {
+      "name": "SanDisk 256GB USB 3.0 Pendrive",
+      "status": "in-stock",
+      "price": "39",
+      "rating": "4.1",
+      "category": "pendrive",
+      "description": "Large-capacity USB drive for data storage",
+      "keyFeature": [
+        {
+          "brand": "SanDisk",
+          "model": "256GB USB 3.0",
+          "specification": "256GB, USB 3.0"
+        }
+      ],
+      "image": ["http://example.com/pendrive5", "http://example.com/pendrive6"],
+      "individualRating": "4.2",
+      "avgRating": "4.0",
+      "review": "20"
+    }
+  ]
+  

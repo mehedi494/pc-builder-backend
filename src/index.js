@@ -1,6 +1,5 @@
 const express = require("express");
 
-
 const mongoose = require("mongoose");
 // eslint-disable-next-line no-undef
 const port = process.env.PORT | 5000;
@@ -12,24 +11,13 @@ require("dotenv").config();
 app.use(express.json());
 app.use(cors());
 
-
-
 // Routes
 app.use("/api/v1", router);
-
 
 app.get("/", (req, res) => {
   console.log(req);
   res.send("Server  are GoseBumping 🚀");
 });
-
-
-
-
-
-
-
-
 
 // Database
 const Database = async () => {
@@ -43,7 +31,5 @@ const Database = async () => {
     console.log(error);
   }
 };
-
-
 
 Database();

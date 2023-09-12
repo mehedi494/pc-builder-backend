@@ -15,7 +15,7 @@ app.use(cors());
 app.use("/api/v1", router);
 
 app.get("/", (req, res) => {
-  console.log(req);
+  console.log(req.url);
   res.send("Server  are GoseBumping 🚀");
 });
 

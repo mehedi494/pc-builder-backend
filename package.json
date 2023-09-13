@@ -5,8 +5,7 @@
   "type": "commonjs",
   "scripts": {
     "dev": "nodemon src/index.js",
-    "build": "node index.js",
-    "start": "node index.js",
+    "start": "node src/index.js",
     "lint": "next lint"
   },
   "dependencies": {
